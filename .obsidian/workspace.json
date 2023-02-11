@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其它/Reflect(反射).md",
+                "file": "js相关/Reflect(反射).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其它/数组的新增API.md",
+                "file": "js相关/数组的新增API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29436b5409debf82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js相关/数组的常用API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其它/数组的新增API.md",
+                "file": "js相关/数组的常用API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +137,17 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3d58d9c1cfadc4c2",
+  "active": "29436b5409debf82",
   "lastOpenFiles": [
+    "js相关/数组的新增API.md",
+    "js相关/数组的常用API.md",
+    "js相关/Reflect(反射).md",
     "数组的新增API.md",
-    "其它/Promise的基本使用.md",
-    "其它/数组的新增API.md",
-    "其它/Reflect(反射).md",
-    "其它/proxy(代理).md",
-    "其它/生成器.md",
-    "其它/node笔记.md",
-    "其它/青年大学习DEMO.md",
-    "其它/异步处理的通用模型.md",
-    "其它/网易云API.MD"
+    "js相关/Promise的基本使用.md",
+    "js相关/proxy(代理).md",
+    "js相关/生成器.md",
+    "js相关/node笔记.md",
+    "js相关/青年大学习DEMO.md",
+    "js相关/异步处理的通用模型.md"
   ]
 }
