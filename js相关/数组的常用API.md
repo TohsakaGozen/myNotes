@@ -145,7 +145,7 @@ et arr = [1, 5, 6, 8, 7, 9]
 浏览器打印结果：  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8fc02ec1b33e4b7daf4cf4ffe20cdb0c.png)
 
-### 2.8 **arr.find()** ：
+### 2.8 **arr.findIndex()** ：
 
 返回数组中满足提供的测试函数的第一个元素的索引。若没有找到对应元素则返回-1
 ```js

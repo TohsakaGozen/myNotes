@@ -50,9 +50,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8ec7b38b28995d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "9a855af55d628d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js相关/echarts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8950bb30ab2b88e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js相关/字符串的常用API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js相关/数组的常用API.md",
+                "file": "js相关/字符串的常用API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,24 +164,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "29436b5409debf82",
+  "active": "8950bb30ab2b88e3",
   "lastOpenFiles": [
-    "js相关/数组的新增API.md",
     "js相关/数组的常用API.md",
-    "js相关/Reflect(反射).md",
-    "数组的新增API.md",
-    "js相关/Promise的基本使用.md",
-    "js相关/proxy(代理).md",
+    "js相关/字符串的常用API.md",
+    "js相关/echarts.md",
+    "js相关/数组的新增API.md",
+    "js相关/map集合.md",
+    "js相关/注册与登录接口.md",
+    "js相关/异步处理的通用模型.md",
+    "js相关/网易云API.MD",
     "js相关/生成器.md",
-    "js相关/node笔记.md",
-    "js相关/青年大学习DEMO.md",
-    "js相关/异步处理的通用模型.md"
+    "js相关/迭代器.md",
+    "js相关/Reflect(反射).md",
+    "数组的新增API.md"
   ]
 }
